@@ -1,0 +1,37 @@
+.m-t{
+    margin-top: 5%;
+}
+.btn-login-web{
+    background: #4154f1;
+    padding: 10px 30px !important;
+    font-size: 10px;
+    border-radius: 4px;
+    color: #fff;
+    font-family: "Nunito", sans-serif;
+
+}
+.btn-login-web:hover{
+    background-color:  #013289;
+    color: #fff;
+}
+.form-label{
+    color: #4154f1;
+}
+.section-header h1 {
+    margin: 10px 0 0 0;
+    padding: 0;
+    font-size: 42px;
+    line-height: 42px;
+    font-weight: 700;
+    color: #012970;
+}
+.casilla{
+    border: 1px solid #012970;
+    border-radius: 9px;
+}
+.casilla i{
+    font-size:60px;
+}
+.a-reclamo{
+    font-size: 22px;
+}
